@@ -15,7 +15,6 @@ The Face Recognition Attendance System is a Python application that automates at
    ![Image 1](./asserts/1.jpg)
    ![Image 1](./asserts/2.jpg)
    ![Image 1](./asserts/3.jpg)
-   ![Image 1](./asserts/4.jpg)
    ![Image 1](./asserts/5.jpg)
   
 
@@ -23,7 +22,7 @@ The Face Recognition Attendance System is a Python application that automates at
    ![Image 1](./asserts/6.jpg)
 
  3. **Unknown Face**
-   ![Image 1](./asserts/6.jpg)
+   ![Image 1](./asserts/4.jpg)
 
 
 
