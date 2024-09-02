@@ -11,12 +11,18 @@ The Face Recognition Attendance System is a Python application that automates at
 
 ## How It Works
 
-1. **Image Preparation:** Load and encode images of individuals.
+1. **Image Preparation:** 
    ![Image 1](./asserts/1.jpg)
    ![Image 1](./asserts/2.jpg)
    ![Image 1](./asserts/3.jpg)
    ![Image 1](./asserts/4.jpg)
    ![Image 1](./asserts/5.jpg)
+  
+
+2. **Attendance Sheet** 
+   ![Image 1](./asserts/6.jpg)
+
+ 3. **Unknown Face**
    ![Image 1](./asserts/6.jpg)
 
 
@@ -25,17 +31,12 @@ The Face Recognition Attendance System is a Python application that automates at
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/face-recognition-attendance-system.git
+    git clone https://github.com/sayyadameer/face-recognition-attendance-system.git
     ```
 
 2. Navigate to the project directory:
     ```bash
     cd face-recognition-attendance-system
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
